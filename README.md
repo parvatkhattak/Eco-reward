@@ -81,4 +81,4 @@ SPA fallbacks are already configured for both platforms:
 - **Netlify**: `public/_redirects` included — drag `dist/` into Netlify Drop or connect the repo
 
 Set `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` as environment variables on the platform if you want the real backend (demo mode works without them).
-# Eco-reward
+
