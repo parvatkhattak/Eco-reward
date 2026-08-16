@@ -1,6 +1,6 @@
 # 🌱 EcoReward — Turn Waste into worth
 
-A waste-pickup rewards platform that turns biodegradable waste into eco points. Households, restaurants, hotels, temples, and flower shops schedule doorstep pickups; collectors run routes with live tracking + QR verification; the city admin monitors everything from an operations panel.
+A waste pickup rewards platform that turns biodegradable waste into eco points. Households, restaurants, hotels, temples, and flower shops schedule doorstep pickups; collectors run routes with live tracking + QR verification; the city admin monitors everything from an operations panel.
 
 Built with **React 19 + Vite + Tailwind CSS v4 + Supabase** (with a full offline demo mode — no backend needed to try it).
 
